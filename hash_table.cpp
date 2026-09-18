@@ -1,6 +1,7 @@
 #include <cstddef>
 #include <functional>
 #include <algorithm>
+#include <iostream>
 
 using namespace std; 
 
@@ -138,3 +139,12 @@ class hash_table {
 
 }; 
 
+int main() {
+    ios_base::sync_with_stdio(false);
+    cin.tie(NULL);
+   
+
+
+
+    return 0; 
+}
